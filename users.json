@@ -1,116 +1,62 @@
-{
-    "users": [
-      {
-        "username": "admin",
-        "password": "123",
-        "role": "admin"
-      },
-      {
-        "username": "admin",
-        "password": "456",
-        "role": "admin"
-      },
-      {
-        "username": "diabetes",
-        "password": "123",
-        "role": "diabetes"
-      },
-      {
-        "username": "pregnancy",
-        "password": "123",
-        "role": "pregnancy"
-      },
-      {
-        "username": "hypertension",
-        "password": "123",
-        "role": "hypertension"
-      },
-      {
-        "username": "obesity",
-        "password": "123",
-        "role": "obesity"
-      },
-      {
-        "username": "pcos",
-        "password": "123",
-        "role": "pcos"
-      },
-      {
-        "username": "pcos",
-        "password": "456",
-        "role": "pcos"
-      },
-      {
-        "id": "3",
-        "username": "jan",
-        "password": "123",
-        "role": "admin"
-      },
-      {
-        "username": "honey",
-        "password": "123",
-        "role": "pcos",
-        "id": "eJ4X_AW"
-      },
-      {
-        "username": "honey",
-        "password": "123",
-        "role": "pcos",
-        "id": "4eJTeM4"
-      },
-      {
-        "username": "hari",
-        "password": "345",
-        "role": "pcos",
-        "id": "QItaZfB"
-      },
-      {
-        "username": "hari",
-        "password": "345",
-        "role": "Diabetes",
-        "id": "I5q_Cyl"
-      },
-      {
-        "username": "kan",
-        "password": "123",
-        "role": "admin",
-        "id": "2yPqCGQ"
-      },
-      {
-        "username": "ramu",
-        "password": "123",
-        "role": "Obesity",
-        "id": "h0qguvu"
-      },
-      {
-        "username": "kali",
-        "password": "9898",
-        "role": "Hypertension",
-        "id": "MQHCSi3"
-      },
-      {
-        "username": "eas",
-        "password": "123",
-        "role": "Obesity",
-        "id": "4C7bUw-"
-      },
-      {
-        "username": "eas",
-        "password": "123",
-        "role": "Obesity",
-        "id": "mqY7Jsx"
-      },
-      {
-        "username": "kli",
-        "password": "777",
-        "role": "Diabetes",
-        "id": "s8EUcO4"
-      },
-      {
-        "username": "kli",
-        "password": "777",
-        "role": "Diabetes",
-        "id": "pg65zo4"
-      }
-    ]
+[
+  {
+    "_token": "paA4WCgZEtohtswsiL3xwV8TsPbDSaYs4y77bZzj",
+    "broker_name": "111",
+    "client_id": "1",
+    "host": "1",
+    "port": "1",
+    "user": "",
+    "password": "",
+    "ssl_tls": "",
+    "status": "",
+    "json_data": ""
+  },
+  {
+    "_token": "paA4WCgZEtohtswsiL3xwV8TsPbDSaYs4y77bZzj",
+    "broker_name": "12345",
+    "client_id": "12345",
+    "host": "192168",
+    "port": "2",
+    "user": "2",
+    "password": "2",
+    "ssl_tls": "2",
+    "status": "1",
+    "json_data": ""
+  },
+  {
+    "_token": "paA4WCgZEtohtswsiL3xwV8TsPbDSaYs4y77bZzj",
+    "broker_name": "mosquitto",
+    "client_id": "kfajsnkjnas",
+    "host": "183.182.185.192",
+    "port": "1883",
+    "user": "",
+    "password": "",
+    "ssl_tls": "",
+    "status": "1",
+    "json_data": ""
+  },
+  {
+    "_token": "paA4WCgZEtohtswsiL3xwV8TsPbDSaYs4y77bZzj",
+    "broker_name": "rasberry",
+    "client_id": "afn bsmkcfa",
+    "host": "185.183.182.195",
+    "port": "1883",
+    "user": "",
+    "password": "",
+    "ssl_tls": "",
+    "status": "1",
+    "json_data": ""
+  },
+  {
+    "_token": "paA4WCgZEtohtswsiL3xwV8TsPbDSaYs4y77bZzj",
+    "broker_name": "test.mosquitto.org",
+    "client_id": "askfnaj",
+    "host": "185.183.182.195",
+    "port": "1883",
+    "user": "",
+    "password": "",
+    "ssl_tls": "",
+    "status": "1",
+    "json_data": ""
   }
+]
